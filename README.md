@@ -1,5 +1,7 @@
 # Movie Recommender w/ SingleStore and AI
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 This application is designed to demonstrate how SingleStoreDB can be used to provide movie recommendations with additional filtering. We used the data from [MovieLens 25M Dataset](https://grouplens.org/datasets/movielens/25m/), which contains the following tables:
 
 ![Database Tables](./assets/database_tables.png)
